@@ -1,8 +1,11 @@
 [package]
-name = "align"
+name = "alignment"
 version = "0.1.0"
 edition = "2021"
 authors = ["Zen-kun04"]
+license = "MIT"
+description = "Align your text in Rust in the CLI."
+repository = "https://github.com/Zen-kun04/Alignment"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

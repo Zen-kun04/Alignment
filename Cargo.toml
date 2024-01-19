@@ -1,5 +1,5 @@
 [package]
-name = "alignment"
+name = "text_alignment"
 version = "0.1.0"
 edition = "2021"
 authors = ["Zen-kun04"]
